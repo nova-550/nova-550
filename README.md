@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Web Development Projects  <br>🌱 Exploring the depths of Java, Python, and the Full Stack realm  <br>💬 Ask me about Python, Git & GitHub, Java, Frontend, or even my latest poem  <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivraj-patil/) | [Twitter](https://twitter.com/)  <br>🎯 2025 Goal: Build impactful software that bridges creativity and code  <br>🎨 Fun Fact: I choreograph with code and compose with silence 🎵<br>Or we can jazz it up a bit:</p>
+<p align="left">🔭 I’m currently working on Web Development Projects  <br>🌱 Exploring the depths of Java, Python, and the Full Stack realm  <br>💬 Ask me about Python, Git & GitHub, Java, Frontend, or even my latest poem  <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivraj-patil/) <br>🎯 2025 Goal: Build impactful software that bridges creativity and code  <br>🎨 Fun Fact: I choreograph with code and compose with silence 🎵<br>Or we can jazz it up a bit:</p>
 
 ###
 
