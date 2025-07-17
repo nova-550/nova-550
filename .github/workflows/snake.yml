@@ -1,4 +1,4 @@
-nname: Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   workflow_dispatch:  # Manual trigger
