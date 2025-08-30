@@ -61,13 +61,13 @@
   <a href="mailto:patilshivraj0715@gmail.com" target="mailto:patilshivraj0715@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/shivrajpatil3550" target="_blank">
+  <a href="https://www.linkedin.com/in/shivrajpatil3550" target="https://www.linkedin.com/in/shivrajpatil3550">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/patilshivraj3550" target="_blank">
+  <a href="https://www.hackerrank.com/profile/patilshivraj3550" target="https://www.hackerrank.com/profile/patilshivraj3550">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://linktr.ee/shiv_550" target="_blank">
+  <a href="https://linktr.ee/shiv_550" target="https://linktr.ee/shiv_550">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
